@@ -1,2 +1,2 @@
 # Serverless
-Work repository for training on Serverless
+Work repository for training on Serverless part 2
